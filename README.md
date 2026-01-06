@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 
 - `2025.12 ~ 현재` [알고리즘 문제 풀이 스터디](https://github.com/first-hired-first-out-algorithm-study) (스터디장)
 
-- `2025.12 ~ 현재`  [아키텍처 스터디 2](https://github.com/IT-Cotato/12th_Cokitecture_study-2) (스터디장)
+- `2025.12 ~ 2026.02`  [아키텍처 스터디 2](https://github.com/IT-Cotato/12th_Cokitecture_study-2) (스터디장)
 
 - `2026.01 ~ 2026.02` 코테 스터디 (하루 두 문제 알고리즘 문제 풀기, 주 1회 2시간 5문제 대면 코테) (스터디장)
 
