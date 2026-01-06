@@ -73,9 +73,11 @@ Here are some ideas to get you started:
 
 - `2025.12 ~ 현재` [알고리즘 문제 풀이 스터디](https://github.com/first-hired-first-out-algorithm-study) (스터디장)
 
-- `2025.12 ~ 현재`  [아키텍처 스터디 2](https://github.com/IT-Cotato/12th_Cokitecture_study-2) (스터디장) 
+- `2025.12 ~ 현재`  [아키텍처 스터디 2](https://github.com/IT-Cotato/12th_Cokitecture_study-2) (스터디장)
 
+- `2026.01 ~ 2026.02` 코테 스터디 (하루 두 문제 알고리즘 문제 풀기, 주 1회 2시간 5문제 대면 코테) (스터디장)
 
+- `2026.01 ~ 2026.02` 점심 먹을 자격 스터디 (월~금 09:00 ~ 12:00 공부 인증 스터디) (스터디장)
 
 ## ✏️ Blog Posts
 - [JVM Deep Dive Part 1 - Thread.start() vs Tread.run()](https://gimini.tistory.com/55)
