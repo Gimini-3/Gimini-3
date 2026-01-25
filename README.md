@@ -45,7 +45,7 @@ Here are some ideas to get you started:
   
 - `2024.01 ~ 2025.07` 육군 mw운용병 복무 
 
-- `2025.09 ~ 현재` IT 연합동아리 TAVE
+- `2025.09 ~ 2026.01` IT 연합동아리 TAVE
 
 - `2025.09 ~ 현재` IT 연합동아리 코테이토
 
@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 - `2025.09 ~ 2025.10` AI 기반 다문화 가정 정보 장벽 해소 플랫폼 **[온가](https://github.com/paas-paas-kr/On-Ga)** (K-Paas 공모전)  
 
-- `2025.10 ~ 현재` AI를 활용한 경제 키워드 공부 웹 서비스 **[원코](https://github.com/TAVE-16-ONECO/Backend)**  
+- `2025.10 ~ 현재` AI를 활용한 경제 키워드 공부 웹 서비스 **[원코](https://github.com/TAVE-16-ONECO/Backend)** (테이브 우수상, 인기상)
 
 - `2025.11 ~ 현재` 세대를 잇는 따뜻한 메시지 연결 서비스 **[잇다](https://github.com/IT-Cotato/12th-ITDA-BE)**  
 
