@@ -33,7 +33,11 @@ Here are some ideas to get you started:
 - email: `gimin1463@naver.com`
 
 - blog: [Gimin's Blog](https://gimini.tistory.com/)
+  
 <br clear="both">
+
+<!-- [![Gimini-3's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gimini-3)](https://github.com/Gimini-3/github-readme-stats) -->
+
 
 ## 🧾 Activities
 
