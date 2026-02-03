@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 
 - `2025.09 ~ 2025.10` [멀티스레드 자바 스터디](https://github.com/multithread-java-study/multithread-java-study) (스터디장, 테이브 스터디 1위)
   
-- `2025.09 ~ 2025.12` 기술블로그 스터디
+- `2025.09 ~ 2025.12` 기술블로그 스터디 (주에 2개의 대기업 기술블로그 읽기 스터디)
 
 - `2025.09 ~ 2025.12` [아키텍처 스터디](https://github.com/IT-Cotato/12th_Cokitecture_study) (스터디장) 
 
