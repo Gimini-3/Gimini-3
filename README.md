@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 -->
 
-
+<!--
 ## 🙋‍♂️ About me
 <img src="https://github.com/user-attachments/assets/af7ec6ea-02f9-4b7f-86a0-0fa8cab961e2" align="right" width="300" alt="Profile image" style="margin-left: 20px;" />
 
@@ -102,3 +102,4 @@ Here are some ideas to get you started:
 
 [![Gimin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gimini-3)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+-->
