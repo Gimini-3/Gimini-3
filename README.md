@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 <!-- [![Gimini-3's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gimini-3)](https://github.com/Gimini-3/github-readme-stats) -->
 
-
+<!--
 ## 🧾 Activities
 
 - `2020.03 ~ 2021.12` 강원대학교 물리학과
