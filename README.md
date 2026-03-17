@@ -65,7 +65,8 @@ Here are some ideas to get you started:
 
 
 ## 📚 Study
-[스터디 목록 보러가기](./study.md)
+
+- [스터디 목록 보러가기](./study.md)
 
 
 ## ✏️ Blog Posts
