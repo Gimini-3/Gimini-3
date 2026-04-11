@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-
+<!--
 ## 🙋‍♂️ About me
 <img src="https://github.com/user-attachments/assets/af7ec6ea-02f9-4b7f-86a0-0fa8cab961e2" align="right" width="300" alt="Profile image" style="margin-left: 20px;" />
 
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 <!-- [![Gimini-3's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gimini-3)](https://github.com/Gimini-3/github-readme-stats) -->
 
-
+-->
 ## 🧾 Activities
 
 - `2020.03 ~ 2021.12` 강원대학교 물리학과
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
   
 - `2023.09 ~ 2023.12` 교내 알고리즘 동아리 SCCC
   
-- `2024.01 ~ 2025.07` 육군 mw운용병 복무 
+- `2024.01 ~ 2025.07` 군대 
 
 - `2025.09 ~ 2026.01` IT 연합동아리 TAVE (전반기 스터디 최우수상, 후반기 프로젝트 우수상)
 
