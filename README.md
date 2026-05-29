@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 ## 🧩 Projects
 
-- `2025.06 ~ 2025.07` 개인 프로젝트 **[jpopj](https://github.com/Gimini-3/jpopj-project)**  
+- `2025.06 ~ 2025.07` 개인 프로젝트 
 
 - `2025.09 ~ 2025.10` AI 기반 다문화 가정 정보 장벽 해소 플랫폼 **[온가](https://github.com/paas-paas-kr/On-Ga)** (K-Paas 공모전)  
 
