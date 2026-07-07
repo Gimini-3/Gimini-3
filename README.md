@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 <!-- [![Gimini-3's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gimini-3)](https://github.com/Gimini-3/github-readme-stats) -->
 
-
+<!--
 ## 🧾 Activities
 
 - `2020.03 ~ 2021.12` 강원대학교 물리학과
@@ -80,12 +80,13 @@ Here are some ideas to get you started:
 - [ONECO DDD 도메인 설계 시리즈 Part 1 - DailyContent 설계 스토리](https://gimini.tistory.com/46)
 
 - [Trouble Shooting - Redis UnknownHostException 문제를 Docker 네트워크/ DNS 관점에서 추적한 기록](https://gimini.tistory.com/44)
-
+-->
 ## 🧮 Algorithm & Problem Solving
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=100points)](https://solved.ac/100points/)
 
+<!--
 ## 📊 GitHub Activity
 
 [![Gimin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gimini-3)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+-->
