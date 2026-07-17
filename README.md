@@ -41,8 +41,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🧾 Activities
-
-- `2020.03 ~ 2021.12` 강원대학교 물리학과
+<!-- - `2020.03 ~ 2021.12` 강원대학교 물리학과 --> 
   
 - `2022.03 ~ 재학 중` 숭실대학교 소프트웨어학부
   
@@ -50,7 +49,7 @@ Here are some ideas to get you started:
   
 - `2024.01 ~ 2025.07` 군대 
 
-- `2025.09 ~ 2026.01` IT 연합동아리 TAVE (전반기 스터디 최우수상, 후반기 프로젝트 우수상)
+- `2025.09 ~ 2026.01` IT 연합동아리 TAVE
 
 - `2025.09 ~ 현재` IT 연합동아리 코테이토 (12기 백엔드 파트원, 13기 백엔드 파트장, 14기 회장)
 
@@ -63,8 +62,11 @@ Here are some ideas to get you started:
 
 - `2025.10 ~ 2026.02` AI를 활용한 경제 키워드 공부 웹 서비스 **[원코](https://github.com/TAVE-16-ONECO/Backend)** (테이브 우수상, 인기상)
 
-- `2025.11 ~ 현재` 세대를 잇는 따뜻한 메시지 연결 서비스 **[심톡](https://github.com/IT-Cotato/12th-ITDA-BE)**  
+- `2025.11 ~ 2026.03` 세대를 잇는 따뜻한 메시지 연결 서비스 **[심톡](https://github.com/IT-Cotato/12th-ITDA-BE)**
 
+- `2026.03 ~ 2026.06` 학생회 업무를 처음부터 끝까지 한 곳에서 **[Cowork](https://github.com/CoWork-Service)**
+
+- `2026.07 ~ 현재` 흩어진 조직 문서를 권한에 맞게 찾아주는 AI 지식 연결 서비스 **[DocGrid](https://github.com/DocGrid/backend)**
 
 ## 📚 Study
 
