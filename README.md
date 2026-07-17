@@ -58,15 +58,15 @@ Here are some ideas to get you started:
 
 - `2025.06 ~ 2025.07` 개인 프로젝트 
 
-- `2025.09 ~ 2025.10` AI 기반 다문화 가정 정보 장벽 해소 플랫폼 **[온가](https://github.com/paas-paas-kr/On-Ga)** (K-Paas 공모전)  
+- `2025.09 ~ 2025.10` AI 기반 다문화 가정 정보 장벽 해소 플랫폼 **[온가](https://github.com/paas-paas-kr/On-Ga)** 
 
-- `2025.10 ~ 2026.02` AI를 활용한 경제 키워드 공부 웹 서비스 **[원코](https://github.com/TAVE-16-ONECO/Backend)** (테이브 우수상, 인기상)
+- `2025.10 ~ 2026.02` AI를 활용한 경제 키워드 공부 웹 서비스 **[원코](https://github.com/TAVE-16-ONECO/Backend)** 
 
 - `2025.11 ~ 2026.03` 세대를 잇는 따뜻한 메시지 연결 서비스 **[심톡](https://github.com/IT-Cotato/12th-ITDA-BE)**
 
 - `2026.03 ~ 2026.06` 학생회 업무를 처음부터 끝까지 한 곳에서 **[Cowork](https://github.com/CoWork-Service)**
 
-- `2026.07 ~ 현재` 흩어진 조직 문서를 권한에 맞게 찾아주는 AI 지식 연결 서비스 **[DocGrid](https://github.com/DocGrid/backend)**
+- `2026.07 ~ 현재` 흩어진 조직 문서를 권한에 맞게 찾아주는 AI 지식 연결 서비스 **[DocGrid](https://github.com/DocGrid/backend)** 
 
 ## 📚 Study
 
