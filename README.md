@@ -36,10 +36,10 @@ Here are some ideas to get you started:
 - blog: [Gimin's Blog](https://gimini.tistory.com/)
   
 <br clear="both">
+-->
+ [![Gimini-3's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gimini-3)](https://github.com/Gimini-3/github-readme-stats) 
 
-<!-- [![Gimini-3's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gimini-3)](https://github.com/Gimini-3/github-readme-stats) -->
 
-<!--
 ## 🧾 Activities
 
 - `2020.03 ~ 2021.12` 강원대학교 물리학과
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 - `2025.09 ~ 2026.01` IT 연합동아리 TAVE (전반기 스터디 최우수상, 후반기 프로젝트 우수상)
 
-- `2025.09 ~ 현재` IT 연합동아리 코테이토
+- `2025.09 ~ 현재` IT 연합동아리 코테이토 (12기 백엔드 파트원, 13기 백엔드 파트장, 14기 회장)
 
 
 ## 🧩 Projects
@@ -71,17 +71,6 @@ Here are some ideas to get you started:
 - [진행한 스터디 보러가기](./study.md)
 
 
-## ✏️ Blog Posts
-- [JVM Deep Dive Part 1 - Thread.start() vs Tread.run()](https://gimini.tistory.com/55)
-
-- [시스템 설계 하루 한 번 알림을 “누락 없이” 보내기 위한 Redis 큐 & 워커 설계](https://gimini.tistory.com/60)
-
-- [카카오 OAuth 로그인 흐름 이해하기: JS SDK + Authorization Code 플로우](https://gimini.tistory.com/61)
-  
-- [ONECO DDD 도메인 설계 시리즈 Part 1 - DailyContent 설계 스토리](https://gimini.tistory.com/46)
-
-- [Trouble Shooting - Redis UnknownHostException 문제를 Docker 네트워크/ DNS 관점에서 추적한 기록](https://gimini.tistory.com/44)
--->
 ## 🧮 Algorithm & Problem Solving
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=100points)](https://solved.ac/100points/)
