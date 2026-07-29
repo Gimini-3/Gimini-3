@@ -66,7 +66,10 @@ Here are some ideas to get you started:
 
 - `2026.03 ~ 2026.06` 학생회 업무를 처음부터 끝까지 한 곳에서 **[Cowork](https://github.com/CoWork-Service)**
 
-- `2026.07 ~ 현재` 흩어진 조직 문서를 권한에 맞게 찾아주는 AI 지식 연결 서비스 **[DocGrid](https://github.com/DocGrid/backend)** 
+- `2026.07 ~ 현재` 흩어진 조직 문서를 권한에 맞게 찾아주는 AI 지식 연결 서비스 **[DocGrid](https://github.com/DocGrid/backend)**
+
+- `2026.07 ~ 현재` 온가 리팩토링 및 고도화 — 기존 팀 프로젝트의 검색·AI 답변 파이프라인을 재설계하고, 개인 프로젝트로 지속 개발 중
+
 
 ## 📚 Study
 
