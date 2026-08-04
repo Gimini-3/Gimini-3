@@ -40,9 +40,8 @@ Here are some ideas to get you started:
 
  [![Gimini-3's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gimini-3)](https://github.com/Gimini-3/github-readme-stats) 
 -->
-
+<!--
 ## 🧾 Activities
-<!-- - `2020.03 ~ 2021.12` 강원대학교 물리학과 --> 
   
 - `2022.03 ~ 재학 중` 숭실대학교 소프트웨어학부
   
@@ -75,14 +74,15 @@ Here are some ideas to get you started:
 ## 📚 Study
 
 - [진행한 스터디 보러가기](./study.md)
-
+-->
 
 ## 🧮 Algorithm & Problem Solving
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=100points)](https://solved.ac/100points/)
 
-
+<!--
 ## 📊 GitHub Activity
 
 [![Gimin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gimini-3)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+-->
