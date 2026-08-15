@@ -76,10 +76,6 @@ Here are some ideas to get you started:
 - [진행한 스터디 보러가기](./study.md)
 -->
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gimini-3&theme=github_dark)
-
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Gimini-3&show_icons=true)
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=100points)](https://solved.ac/100points/)
 
 <!--
