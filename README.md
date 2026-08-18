@@ -78,9 +78,6 @@ Here are some ideas to get you started:
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=100points)](https://solved.ac/100points/)
 
-<!--
-## 📊 GitHub Activity
-
 [![Gimin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gimini-3)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
--->
+
